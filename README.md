@@ -1,9 +1,9 @@
-![Header]()
+![Header](https://github.com/M-Juli/M-Juli/blob/main/assets/header.png)
 
 ## About me
 Тут будет описание
 ## My CV
-[Link to my CV](тут будет ссылка на резюмеху)
+Link to my CV(тут будет ссылка на резюмеху)
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-EEEED9?style=for-the-badge&logo=Postman)
