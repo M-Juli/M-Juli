@@ -1,4 +1,4 @@
-![Header](https://github.com/M-Juli/M-Juli/blob/main/assets/header.png)
+![Header]()
 
 # I'm a beginner QA Engineer
 Тут будет описание
@@ -6,7 +6,7 @@
 ## My CV
 Link to my CV(тут будет ссылка на резюмеху)
 
-## Languages and Tools
+## Language and Tools
 ![Postman](https://img.shields.io/badge/-Postman-EEEED9?style=for-the-badge&logo=Postman)
 ![DevTools](https://img.shields.io/badge/-DevTools-EEEED9?style=for-the-badge&logo=googlechrome&logoColor=2674A2)
 ![AndruodStudio](https://img.shields.io/badge/-AndroidStudio-EEEED9?style=for-the-badge&logo=AndroidStudio)
