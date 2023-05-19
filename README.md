@@ -1,5 +1,7 @@
 ![Header](https://github.com/M-Juli/M-Juli/blob/main/assets/header.png)
 
+## I'm a beginner QA Engineer
+
 ## About me
 Тут будет описание
 ## My CV
