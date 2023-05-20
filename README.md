@@ -16,6 +16,11 @@ Link to my CV(тут будет ссылка на резюмеху)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EEEED9?style=for-the-badge&logo=PostgreSQL)
 ![JSON](https://img.shields.io/badge/-JSON-EEEED9?style=for-the-badge&logo=JSON&logoColor=BEBEAB)
 
+## Testing Documentation
+- [Checklists]()
+- [Test-cases]()
+- [Bug-Reports](https://github.com/M-Juli/Bug-Reports/blob/main/README.md)
+- [Postman Collections]()
 ## Follow me
 [![VK](https://img.shields.io/badge/-VKONTAKTE-0A5CAD?style=for-the-badge&logo=VK)](https://vk.com/yulenka_pm)
 [![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram)](https://t.me/srt_uly)
