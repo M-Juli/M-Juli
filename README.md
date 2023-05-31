@@ -1,10 +1,6 @@
 ![Header](https://github.com/M-Juli/M-Juli/blob/main/assets/heyteaser%20(1).png)
 
 # I'm a beginner QA Engineer <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-Тут будет описание
-
-## My CV
-Link to my CV(тут будет ссылка на резюмеху)
 
 ## Language and Tools
 ![Postman](https://img.shields.io/badge/-Postman-EEEED9?style=for-the-badge&logo=Postman)
